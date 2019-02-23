@@ -20,6 +20,7 @@ matrix(c(1,2,3,4,5), nc=2)
 
 
 meus_dados = c(1:10)
+meus_dados
 #preenche a matriz por linha usando vetor meus_dados
 matrix(data = meus_dados, nr=5, nc=2, byrow=T)
 #preenchimento normal por coluna
@@ -35,6 +36,7 @@ mat[,2]
 
 #matriz diagonal
 matriz = 1:3
+matriz
 diag(matriz)
 
 #pegar valores da diagonal da matriz
