@@ -6,7 +6,7 @@
 #o padrão é preencher primeiro a coluna, depois linha
 matrix(c(1,2,3,4,5,6), nr=2)
 matrix(c(1,2,3,4,5,6), nr=3)
-#1 única coluna com 6 linhas
+  #1 única coluna com 6 linhas  
 matrix(c(1,2,3,4,5,6), nr=6)
 
 #número de colunas

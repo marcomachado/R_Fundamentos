@@ -1,7 +1,7 @@
 #dataframes são similares a matrizes
 #diferença: cada coluna/linha pode possui um elemento de tipo diferente
 
-#DATAFRAMES
+#DATAFRAMES 
 
 #Criando
 df = data.frame()

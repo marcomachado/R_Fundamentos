@@ -4,7 +4,7 @@
 
 #strings
 lista_char = list('Oi', 'Bem Vindo', "Data Science")
-lista_char
+            lista_char
 
 #numeros
 lista_num = list(1,2,3)
@@ -81,7 +81,6 @@ vec
 mat_vec = list(mat, vec)
 mat_vec
 mat_vec[[1]]
-?c
 
 
 
